@@ -1,0 +1,26 @@
+BenayBIMTools Kullanım Lisansı
+
+Telif bildirimi (resmi marka tescili beyanı değildir):
+Copyright (c) 2026 Benay Kaner. Tüm hakları saklıdır.
+
+Bu yazılım, kendisine doğrudan teslim edilen kullanıcıya yalnızca kendi
+çalışmalarında kullanması için sınırlı, devredilemez bir kullanım izniyle
+sunulmaktadır.
+
+İzin verilmeyen işlemler:
+
+- Benay Kaner adının, BenayBIMTools markasının, logonun veya telif
+  bildirimlerinin kaldırılması ya da değiştirilmesi,
+- yazılımın başka bir kişi veya kuruluşa aitmiş gibi sunulması,
+- yazılımın yeniden markalanması, satılması veya üçüncü kişilere dağıtılması,
+- kaynak kodunun veya marka bütünlük kontrolünün bu amaçlarla değiştirilmesi
+  ya da etkisiz hale getirilmesi.
+
+Bu eklenti yalnızca geçerli lisanslı Autodesk Revit sürümlerinde kullanılmak
+üzere sunulmuştur. Autodesk ürün lisanslarının geçerliliğinden kullanıcı
+sorumludur. Değiştirilmiş, crack'li veya lisanssız Revit kurulumları
+desteklenmez.
+
+Yazılım "olduğu gibi" sunulur. Kullanıcı, işlem öncesinde proje yedeği almak
+ve sonuçları doğrulamakla sorumludur.
+

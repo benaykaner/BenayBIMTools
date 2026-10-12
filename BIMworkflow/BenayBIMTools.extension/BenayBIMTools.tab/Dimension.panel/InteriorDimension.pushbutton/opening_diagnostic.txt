@@ -1,0 +1,143 @@
+COLLECTOR | active_view_openings=13 document_openings=26 active_view_walls=64
+ROOM_COLLECTOR | active_view_rooms=0 document_rooms=1 context_rooms=0
+WALL_CANDIDATES | wall=361164 find_inserts=2 door_window_candidates=2
+SEGMENT_MATCH | wall=361164 room=NONE candidates=2 matched=2
+OPENING_REFERENCES | opening=389084 wall=361164 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+OPENING_REFERENCES | opening=389372 wall=361164 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=361241 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=361241 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=389430 wall=361241 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=361322 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=361322 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=361504 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=361504 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=361638 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=361638 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=375222 wall=361638 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=361681 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=361681 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=378268 wall=361681 axis=Y references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=361801 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=361801 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=361881 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=361881 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=388877 wall=361881 axis=Y references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=361954 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=361954 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=388976 wall=361954 axis=Y references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=363969 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=363969 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364023 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364023 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364124 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364124 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364275 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364275 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364310 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364310 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364374 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364374 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364416 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364416 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364472 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364472 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364503 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364503 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364623 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364623 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364692 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364692 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364827 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364827 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364884 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364884 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=364960 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=364960 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=365346 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=365346 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=378489 wall=365346 axis=Y references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=365445 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=365445 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=374713 wall=365445 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=365509 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=365509 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=365755 find_inserts=2 door_window_candidates=2
+SEGMENT_MATCH | wall=365755 room=NONE candidates=2 matched=2
+OPENING_REFERENCES | opening=374826 wall=365755 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+OPENING_REFERENCES | opening=375009 wall=365755 axis=X references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=366159 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=366159 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=366351 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=366351 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=367058 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=367058 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=367473 find_inserts=1 door_window_candidates=1
+SEGMENT_MATCH | wall=367473 room=NONE candidates=1 matched=1
+OPENING_REFERENCES | opening=375095 wall=367473 axis=Y references=2 sources=HOST_WALL_REVEAL,HOST_WALL_REVEAL
+WALL_CANDIDATES | wall=367620 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=367620 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=367923 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=367923 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369042 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369042 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369102 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369102 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369150 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369150 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369606 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369606 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369779 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369779 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369853 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369853 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=369921 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=369921 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370040 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370040 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370093 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370093 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370177 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370177 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370211 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370211 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370610 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370610 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370706 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370706 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370746 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370746 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370837 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370837 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=370908 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=370908 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371070 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371070 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371123 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371123 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371349 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371349 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371430 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371430 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371469 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371469 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371895 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371895 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=371948 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=371948 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=372899 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=372899 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=373864 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=373864 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=373948 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=373948 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=374002 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=374002 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=374054 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=374054 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=374244 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=374244 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=374304 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=374304 room=NONE candidates=0 matched=0
+WALL_CANDIDATES | wall=374347 find_inserts=0 door_window_candidates=0
+SEGMENT_MATCH | wall=374347 room=NONE candidates=0 matched=0
+V7_SUMMARY | surface_tracks=46 direction_groups=4 groups_with_openings=4 opening_chains=4 core_chains=4 missing_core_walls=0 fallback_core_types=3 skipped=0
